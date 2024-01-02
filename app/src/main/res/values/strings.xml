@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">View Binding</string>
+    <string name="enter_your_description">Enter your Description</string>
+    <string name="enter_your_name">Enter your Name</string>
+</resources>
